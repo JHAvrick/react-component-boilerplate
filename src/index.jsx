@@ -15,5 +15,4 @@ class ReactComponent extends React.Component {
 
 }
 
-
 export default ReactComponent;
